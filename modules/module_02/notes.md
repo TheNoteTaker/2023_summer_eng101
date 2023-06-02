@@ -1,5 +1,14 @@
 # Module 2
 
+<!-- TOC -->
+* [Module 2](#module-2)
+* [General Notes](#general-notes)
+* [What is Linguistics?](#what-is-linguistics)
+  * [Grammar](#grammar)
+  * [Phonetics and Phonology](#phonetics-and-phonology)
+    * [Phonetics](#phonetics)
+<!-- TOC -->
+
 # General Notes
 
 # What is Linguistics?

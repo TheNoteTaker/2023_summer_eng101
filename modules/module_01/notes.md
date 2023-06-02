@@ -1,5 +1,20 @@
 # Module 01
 
+<!-- TOC -->
+* [Module 01](#module-01)
+* [General Notes](#general-notes)
+* [The 8 Aspects of Writing](#the-8-aspects-of-writing)
+  * [Aesthetic](#aesthetic)
+  * [Linguistic](#linguistic)
+  * [Rhetorical](#rhetorical)
+  * [Socio-Cultural](#socio-cultural)
+  * [Structural](#structural)
+  * [Analytical](#analytical)
+  * [Scientific](#scientific)
+  * [Technological](#technological)
+* [Introduction - Writing and The Alphabet](#introduction---writing-and-the-alphabet)
+<!-- TOC -->
+
 # General Notes
 
 The 8 aspects of writing are a composite system to help us understand what writing is and how its different pieces fit

@@ -1,5 +1,17 @@
 # Module 0
 
+<!-- TOC -->
+* [Module 0](#module-0)
+* [General Notes](#general-notes)
+  * [Aspects of Writing](#aspects-of-writing)
+* [Time Commitments](#time-commitments)
+* [8 Aspects of Writing - Top 3](#8-aspects-of-writing---top-3)
+  * [Aesthetic](#aesthetic)
+  * [Linguistic](#linguistic)
+  * [Rhetorical](#rhetorical)
+* [Failure as a Process of Writing - Naming What We Know by Brooke and Carr](#failure-as-a-process-of-writing---naming-what-we-know-by-brooke-and-carr)
+<!-- TOC -->
+
 # General Notes
 
 ## Aspects of Writing
