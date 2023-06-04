@@ -7,6 +7,8 @@
   * [Grammar](#grammar)
   * [Phonetics and Phonology](#phonetics-and-phonology)
     * [Phonetics](#phonetics)
+    * [Phonology](#phonology)
+    * [Morphology](#morphology)
 <!-- TOC -->
 
 # General Notes
@@ -84,3 +86,55 @@ before written and so we often learn to speak languages before writing them.
       sounds are being formed. Understanding how sounds are formed can help us
       understand what people are saying and how better to speak in other
       languages.
+- How we form words and recognize sounds with our ears.
+
+### Phonology
+
+**Phonology** studies the rules governing the structure, distribution, and
+sequencing of speech sounds and the shape of syllables.
+
+- It deals with the sounds system of a language by treating phoneme as the
+  point of departure.
+    - A **phoneme** is the smallest linguistic unit of sound that can signal a
+      difference in meaning.
+- Phonology is the logic behind how sounds are formed.
+- Phonology is the logic or system governing how the sounds are built.
+- Different languages have different ways of forming sounds and how often,
+  resulting in people not having practice in languages where these patterns and
+  sound combinations are more common and some sounds are privileged.
+
+### Morphology
+
+**Morphology** is concerned with the internal organization of words.
+
+It studies the minimal units of meaning _(morphemes and word)_ formation
+processes.
+
+- Morphology is the logic behind how words are built.
+- The alphabet is not the building blocks of a language, it is a representation
+  of the language. What we really have are combinations of letters to create
+  meaning.
+    - Building blocks with languages of meaning are morphemes.
+- The logic behind how we make meaning or new meaning out of words is
+  morphology.
+- Some examples:
+    - Latin and Greek root words
+    - Prefixes and suffixes
+    - Word families and how words are built
+- Morphemes could be a single letter, a combination of letters, or a word, such
+  as:
+    - **circumspect**
+        - **circum** is a prefix
+        - **spect** is a root word
+        - **circumspect** is a word
+        - The meaning can be broken down into the meaning of the prefix and the
+          root word.
+    - Adding **"ed"** morpheme does not change the meaning of the word, but
+      changes the temporal location.
+- Morphemes serve different purposes. Some derive new words by changing the
+  meaning or the part of speech, others only refine and give extra grammatical
+  information about the already existing meaning of a word.
+    - As morphemes are pairings of sounds with meanings, there are many
+      complexities involved, forming a new field by the name
+      **morphophonology**.
+
