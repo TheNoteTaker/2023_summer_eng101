@@ -15,7 +15,8 @@
 
 ## 32 Downs and Wardle (2007) Writing - Righting Misconceptions
 
-> **PDF Link**: [Here](assets/32-downs_and_wardle_(2007)_writing-righting_misconceptions.pdf)
+> **PDF Link**: 
+> [Here](assets/32-downs_and_wardle_(2007)_writing-righting_misconceptions.pdf)
 > 
 > <a href="assets/32-downs_and_wardle_(2007)_writing-righting_misconceptions.pdf"><img alt="Downs and Wardle book" height="300" src="assets/resource_downs_and_wardle.png" width="200"/></a>
 
