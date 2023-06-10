@@ -1,10 +1,12 @@
 # Module 8
 
 <!-- TOC -->
-
 * [Module 8](#module-8)
 * [General Notes](#general-notes)
-
+* [Structuring Arguments - Rhetorical Forms](#structuring-arguments---rhetorical-forms)
+* [Classical Greek Oratorical Form](#classical-greek-oratorical-form)
+* [Rogerian Form](#rogerian-form)
+  * [Key Rhetorical Moves](#key-rhetorical-moves)
 <!-- TOC -->
 
 # General Notes
@@ -37,6 +39,46 @@
 ---
 
 - The first three sections of exordium, narratio, and partitio are only **15% -
-20%** of the essay.
-- This is an aggressive form with just enough information to get them to what you think, very pushy and forward.
-  - This is something that is great for winning arguments, but bad at winning friends. This tends to become embedded in the way that we argue as well.
+  20%** of the essay.
+- This is an aggressive form with just enough information to get them to what
+  you think, very pushy and forward.
+    - This is something that is great for winning arguments, but bad at winning
+      friends. This tends to become embedded in the way that we argue as well.
+
+# Rogerian Form
+
+Based on a clinical counseling method desiring to incite compassion and
+reconciliation between parties
+
+- This is not a full _compromise_ model where you submit to a way of thinking you don't agree with, it's a form of rhetoric that establishes **ethos** over **logos**.
+- This form emphasizes passion and being a human over winning a debate.
+- This form is influence versus authority, because you have established a cultural respect around you.
+  - People that we allow to have influence over us versus people who are forced to.
+
+## Key Rhetorical Moves
+
+- Introduce issue, problem, or argument
+- Give Context
+- Validate alternate views
+  - _This is not agreeing or confirming, it's validating._
+- State One’s Own Opinion
+- Explain Benefits to opponents
+
+# Giving Feedback: RICE Model
+
+1. **Relationship** and **Rapport-building**
+   - Connect with the audience and establish a relationship
+2. **Information** or **Illustration**
+   - Provide the information, pattern, illustration, or example from their writing that you want to address.
+   - Be specific in pointing out what you are addressing.
+3. **Claim**
+   - Say whether you think it was effective or not and to what degree.
+4. **Explanation**
+   - Explain why you think the above, and give the recommendation for improvement.
+
+- Built on the Rogerian form
+- Give feedback that is specific, tangible, and offers recommendations.
+- Similar to the compliment sandwich
+- Look for patterns of things people are doing well and things they are not, instead of just individual things. 
+  - You can focus on a specific aspect of writing.
+- Build people up, don't beat them up.
