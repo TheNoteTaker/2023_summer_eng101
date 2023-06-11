@@ -90,3 +90,19 @@ reconciliation between parties
   instead of just individual things.
     - You can focus on a specific aspect of writing.
 - Build people up, don't beat them up.
+
+## The Professor's Grading System
+
+- Once papers are submitted, students will receive **3 - 6** papers to give feedback on, meaning they do **3 -6** (likely **3 - 4**) assessments.
+  - The feedback they give will count for **5%** of their grade.
+- Students must give a numerical score for **9 criteria**:
+  1. Eight aspects of writing
+     - **0 - 10 Score** where **10** is excellent.
+     - This totals for **80 points**
+  2. Basic requirement for the assignment
+     - This accounts for **20 points**
+     - This asks if the student met the basic requirements of the assignment and fulfilled the main purpose of the assignment.
+     - Can also include, sources, formatting, word count, etc.
+- Students must also give three substantial paragraph-length pieces of feedback of **3 - 6 sentences** or **4 - 7 sentences** each.
+- The instructor may adjust the scores if he feels that something was missed.
+- The final part of this is for you to defend your work if needed while the teacher abritrates between you and the other students.

@@ -47,6 +47,19 @@ Compared it to making a new friend with the thesis statement being stating your 
 
 ![](assets/seven_point_thesis.png)
 
+## Overall Steps
+
+1. Title of Text
+   - _(or Name of Topic)_
+2. Creator of Text
+   - _(if applicable)_
+3. Genre of Text
+   - _(saying, music, video, song, novel, short story, etc.)_
+4. What is happening? What is being done by the creator?
+5. How is this thing being done? How does the creator do what he/she is doing?
+6. Why is this happening? Why does the creator do what s/he is doing? What is the reasoning for doing this thing in this way?
+7. How does this change the way people think? What are the ripple effects of the methods and madness connect to your text? How does this thing happening in this way impact the way people see the world? 
+
 ## Basic Identifying Elements
 
 _Text_ below broadly means the specific object of study.
@@ -76,11 +89,15 @@ The thought process and larger impact
 
 - The thesis should make a claim and not just inform, establishing your purpose for writing that paper.
 - Thesis statements perform several functions:
-  - Rhetorical
-  - Structural
-  - Analytical 
+  - _Rhetorical_
+    - Part of establishing the purpose for the writing.
+  - _Structural_
+    - In 3-prong thesis essays, the thesis statement performs signposting functions indicating the main points of the essay.
+  - _Analytical_ 
 - The thesis statement actually hits on 5 of the 8 aspects of writing and is why it is so important.
 - Essays should be standalone text that when taken out of the classroom would be able to read as professional if published somewhere.
+  - Don't just think about them as responses to prompts.
 - These 7 points should be used to bring together the main thoughts of the essay, often best in complex compound sentences.
-- Having a deep thesis statement holds you accountable to push deep into the paragraphs as well.
+- Having a deep thesis statement holds you accountable to push deep into the argument rather than broad-stroke arguments.
   - There's a benefit to pushing deep early on by setting these expectations for both the readers and yourself.
+- It can be good to do the thesis statement in a complex compound sentence, but in some cultures it is also acceptable to split up the thesis statement.
