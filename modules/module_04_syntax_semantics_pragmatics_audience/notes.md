@@ -1,7 +1,7 @@
-# Module 4
+# Module 4 - Syntax, Semantics, Pragmatics, Audience
 
 <!-- TOC -->
-* [Module 4](#module-4)
+* [Module 4 - Syntax, Semantics, Pragmatics, Audience](#module-4---syntax-semantics-pragmatics-audience)
 * [General Notes](#general-notes)
 * [Syntax](#syntax)
   * [Syntax Notes](#syntax-notes)

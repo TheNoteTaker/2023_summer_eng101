@@ -1,23 +1,27 @@
-# Module 6
+# Module 6 - Analytical Writing
 
 <!-- TOC -->
-
-* [Module 6](#module-6)
+* [Module 6 - Analytical Writing](#module-6---analytical-writing)
 * [General Notes](#general-notes)
-    * [Additional Resources](#additional-resources)
+  * [Additional Resources](#additional-resources)
 * [Analytical Writing](#analytical-writing)
 * [Deconstructing](#deconstructing)
 * [Overview of Key Components](#overview-of-key-components)
-    * [Iceberg Theory](#iceberg-theory)
+  * [Iceberg Theory](#iceberg-theory)
 * [Common Types of Analysis](#common-types-of-analysis)
-    * [Stakeholder Mapping/Analysis](#stakeholder-mappinganalysis)
-        * [Systems of Stakeholders](#systems-of-stakeholders)
-        * [Stakeholder Mapping](#stakeholder-mapping)
-        * [Stakeholder Mapping - Power Dynamics](#stakeholder-mapping---power-dynamics)
-    * [Root Cause Analysis](#root-cause-analysis)
-    * [Basic Fishbone Diagram](#basic-fishbone-diagram)
-        * [Advanced Fishbone Diagram](#advanced-fishbone-diagram)
-
+  * [Stakeholder Mapping/Analysis](#stakeholder-mappinganalysis)
+    * [Systems of Stakeholders](#systems-of-stakeholders)
+    * [Stakeholder Mapping](#stakeholder-mapping)
+    * [Stakeholder Mapping - Power Dynamics](#stakeholder-mapping---power-dynamics)
+  * [Root Cause Analysis](#root-cause-analysis)
+  * [Basic Fishbone Diagram](#basic-fishbone-diagram)
+    * [Advanced Fishbone Diagram](#advanced-fishbone-diagram)
+  * [Process Mapping / Developing Algorithms](#process-mapping--developing-algorithms)
+    * [Genres of Process Mapping](#genres-of-process-mapping)
+      * [Example One](#example-one)
+      * [Example Two](#example-two)
+      * [Example Three](#example-three)
+* [Levels of Cognition](#levels-of-cognition)
 <!-- TOC -->
 
 # General Notes
@@ -189,25 +193,32 @@ you that you can use your own.
 
 ## Process Mapping / Developing Algorithms
 
-**Definition:** Developing "a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer."
+**Definition:** Developing "a process or set of rules to be followed in
+calculations or other problem-solving operations, especially by a computer."
 
-- An algorithm is basically a decision-making process that people or computers use consistently to accomplish a goal. When people repeat the same general process, we call that a routine.
-  - _i.e. getting ready in the morning, meal planning for a week, signing up for classes_
-- **Heuristic &rarr; Algorithm &rarr; Specific Code for execution (Essay Outline)**
-  - **Heuristic Definition:** Proceeding to a solution by trial and error or by rules that are only loosely defined.
-  - Messy flexible process
-  - Specific sequence of steps
-  - Steps applied/executed in a particular situation
+- An algorithm is basically a decision-making process that people or computers
+  use consistently to accomplish a goal. When people repeat the same general
+  process, we call that a routine.
+    - _i.e. getting ready in the morning, meal planning for a week, signing up
+      for classes_
+- **Heuristic &rarr; Algorithm &rarr; Specific Code for execution (Essay
+  Outline)**
+    - **Heuristic Definition:** Proceeding to a solution by trial and error or
+      by rules that are only loosely defined.
+    - Messy flexible process
+    - Specific sequence of steps
+    - Steps applied/executed in a particular situation
 
 ### Genres of Process Mapping
 
 An algorithm is it’s own genre, but it also has a genre family of sorts
 
-- Flow Charts 
+- Flow Charts
 - Schemas
 - The Methods section in an IMRD formatted essay is meant to be an algorithm
-- Sometimes an outline can be a form of process mapping, but there are reasons why it does not always count.
-  - For instance, Outlines only map the structure of a single text
+- Sometimes an outline can be a form of process mapping, but there are reasons
+  why it does not always count.
+    - For instance, Outlines only map the structure of a single text
 
 #### Example One
 
@@ -239,11 +250,13 @@ _Overlaps with rhetorical genres of sentences_
     - Analysis also uses inferences based on things that you can see.
 - **Evaluation:** A value judgement about something based on criteria
     - Effective evaluation is based on specific, tangible, measurable criteria
-    - Sometimes **qualitative** data is data that people don't want to take the time to find **quantitative** data for.
-      - **Qualitative** data is data that is not measurable and is usually perception-based.
-        - _"How many people think this thing is true?"_
+    - Sometimes **qualitative** data is data that people don't want to take the
+      time to find **quantitative** data for.
+        - **Qualitative** data is data that is not measurable and is usually
+          perception-based.
+            - _"How many people think this thing is true?"_
     - **Criteria:** Specific, tangible, measurable qualities
         - Most effective when we go beyond simple **YES/NO**
         - I.e. **not <u>either/or</u>** but **<u>to what degree</u>**
 - Advocacy
-  - Advocating for the thing you've come to believe based on the found data.
+    - Advocating for the thing you've come to believe based on the found data.

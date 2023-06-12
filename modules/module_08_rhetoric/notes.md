@@ -1,13 +1,14 @@
-# Module 8
+# Module 8 - Rhetoric
 
 <!-- TOC -->
-* [Module 8](#module-8)
+* [Module 8 - Rhetoric](#module-8---rhetoric)
 * [General Notes](#general-notes)
 * [Structuring Arguments - Rhetorical Forms](#structuring-arguments---rhetorical-forms)
 * [Classical Greek Oratorical Form](#classical-greek-oratorical-form)
 * [Rogerian Form](#rogerian-form)
   * [Key Rhetorical Moves](#key-rhetorical-moves)
 * [Giving Feedback: RICE Model](#giving-feedback-rice-model)
+  * [The Professor's Grading System](#the-professors-grading-system)
 <!-- TOC -->
 
 # General Notes
@@ -93,16 +94,20 @@ reconciliation between parties
 
 ## The Professor's Grading System
 
-- Once papers are submitted, students will receive **3 - 6** papers to give feedback on, meaning they do **3 -6** (likely **3 - 4**) assessments.
-  - The feedback they give will count for **5%** of their grade.
+- Once papers are submitted, students will receive **3 - 6** papers to give
+  feedback on, meaning they do **3 -6** (likely **3 - 4**) assessments.
+    - The feedback they give will count for **5%** of their grade.
 - Students must give a numerical score for **9 criteria**:
-  1. Eight aspects of writing
-     - **0 - 10 Score** where **10** is excellent.
-     - This totals for **80 points**
-  2. Basic requirement for the assignment
-     - This accounts for **20 points**
-     - This asks if the student met the basic requirements of the assignment and fulfilled the main purpose of the assignment.
-     - Can also include, sources, formatting, word count, etc.
-- Students must also give three substantial paragraph-length pieces of feedback of **3 - 6 sentences** or **4 - 7 sentences** each.
+    1. Eight aspects of writing
+        - **0 - 10 Score** where **10** is excellent.
+        - This totals for **80 points**
+    2. Basic requirement for the assignment
+        - This accounts for **20 points**
+        - This asks if the student met the basic requirements of the assignment
+          and fulfilled the main purpose of the assignment.
+        - Can also include, sources, formatting, word count, etc.
+- Students must also give three substantial paragraph-length pieces of feedback
+  of **3 - 6 sentences** or **4 - 7 sentences** each.
 - The instructor may adjust the scores if he feels that something was missed.
-- The final part of this is for you to defend your work if needed while the teacher abritrates between you and the other students.
+- The final part of this is for you to defend your work if needed while the
+  teacher abritrates between you and the other students.

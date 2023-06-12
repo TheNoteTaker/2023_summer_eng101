@@ -1,7 +1,7 @@
-# Module 9
+# Module 9 - Writing Organization
 
 <!-- TOC -->
-* [Module 9](#module-9)
+* [Module 9 - Writing Organization](#module-9---writing-organization)
 * [General Notes](#general-notes)
   * [16 Organization Strategies](#16-organization-strategies)
     * [Overview](#overview)
@@ -224,97 +224,98 @@
 
 ### Common Errors with Examples and Corrections
 
-1. **Wrong word**:
+1. <u>**Wrong word**:</u>
     1. _**Incorrect:**_ _"Please except my apology."_
     2. _**Correct:**_ _"Please accept my apology."_
-2. **Spelling**:
+2. <u>**Spelling**:</u>
     1. _**Incorrect:**_ _"We were happy to recieve your job position
        announcement."_
     2. _**Correct:**_ _"We were happy to receive your job position
        announcement."_
-3. **Incomplete or missing documentation**:
+3. <u>**Incomplete or missing documentation**:</u>
     1. _**Incorrect:**_ _"Your ear for language is more reliable than your
        eye."_
     2. _**Correct:**_ _"Your ear for language is more reliable than your eye"_ (
        Hortshoj 85).
-4. **Mechanical error with quotation**:
+4. <u>**Mechanical error with quotation**:</u>
     1. _**Incorrect:**_ _"Writing is a struggle against silence Carlos Fuentes
        asserts."_
     2. _**Correct:**_ _"Writing is a struggle against silence,"_ Carlos Fuentes
        asserts.
-5. **Missing comma after an introductory element**:
+5. <u>**Missing comma after an introductory element**:</u>
     1. _**Incorrect:**_ _"While I typed my brother used headphones to listen to
        music."_
     2. _**Correct:**_ _"While I typed, my brother used headphones to listen to
        music."_
-6. **Missing word**:
+6. <u>**Missing word**:</u>
     1. _**Incorrect:**_ _"The writing process more complicated than most people
        think."_
     2. _**Correct:**_ _"The writing process is more complicated than most people
        think."_
-7. **Unnecessary or missing capitalization**:
+7. <u>**Unnecessary or missing capitalization**:</u>
     1. _**Incorrect:**_ _"Even expert writers need a book like A writer’s
        resource."_
     2. _**Correct:**_ _"Even expert writers need a book like A Writer’s
        Resource."_
-8. **Vague pronoun reference**:
+8. <u>**Vague pronoun reference**:</u>
     1. _**Incorrect:**_ _"Some students think their first draft is their last
        draft, which can cause frustration."_
     2. _**Correct:**_ _"Some students think their first draft is their last
        draft, a belief that can cause frustration."_
-9. **Unnecessary or missing apostrophe (including its/it’s)**:
+9. <u>**Unnecessary or missing apostrophe (including its/it’s)**:</u>
     1. _**Incorrect:**_ _"Kershaws pitching got better as the season went on."_
     2. _**Correct:**_ _"Kershaw’s pitching got better as the season went on."_
-10. **Unnecessary comma**:
+10. <u>**Unnecessary comma**:</u>
     1. _**Incorrect:**_ _"Research has found, that procrastination is not an
        effective time-management strategy."_
     2. _**Correct:**_ _"Research has found that procrastination is not an
        effective time-management strategy."_
-11. **Unnecessary shift in verb tense**:
+11. <u>**Unnecessary shift in verb tense**:</u>
     1. _**Incorrect:**_ _"We learn things better when we struggled to learn
        them."_
     2. _**Correct:**_ _"We learn things better when we struggle to learn them."_
-12. **Missing comma in a compound sentence**: "You start out writing crap and
-    thinking it's good stuff and then gradually you get better at it." –Octavia
-    Butler
+12. <u>**Missing comma in a compound sentence**:</u>
+    1. _**Incorrect:**_ "You start out writing crap and
+        thinking it's good stuff and then gradually you get better at it." –Octavia
+        Butler
     2. _**Correct:**_ _"You start out writing crap and thinking it's good stuff,
        and then gradually you get better at it."_ –Octavia Butler
-13. **Faulty sentence structure**:
+13. <u>**Faulty sentence structure**:</u>
     1. _**Incorrect:**_ _"It was hard for me to get started even though I’m glad
        I doing it."_
     2. _**Correct:**_ _"Even though it was hard for me to get started, I’m glad
        I did."_
-14. **Comma splice**:
+14. <u>**Comma splice**:</u>
     1. _**Incorrect:**_ _"Many students have a hard time when they start
        college, it becomes easier for them later."_
     2. _**Correct:**_ _"Many students have a hard time when they start college,
        and it becomes easier for them later."_
-15. **Lack of pronoun-antecedent agreement**:
+15. <u>**Lack of pronoun-antecedent agreement**:</u>
     1. _**Incorrect:**_ _"A resilient person knows how to take care of
        themselves."_
     2. _**Correct:**_ _"Resilient people know how to take care of themselves."_
-16. **Missing comma(s) with a non-essential element**:
+16. <u>**Missing comma(s) with a non-essential element**:</u>
     1. _**Incorrect:**_ _"Bird by Bird a book by Anne Lamott is an excellent
        source of encouragement for writers."_
     2. _**Correct:**_ _"Bird by Bird, a book by Anne Lamott, is an excellent
        source of encouragement for writers."_
-17. **Sentence fragment**:
+17. <u>**Sentence fragment**:</u>
     1. _**Incorrect:**_ _"I would rather be somewhere quiet. If I need to be
        able to think."_
     2. _**Correct:**_ _"I would rather be somewhere quiet if I need to be able
        to think."_
-18. **Run-on sentence**:
+18. <u>**Run-on sentence**:</u>
     1. _**Incorrect:**_ _"Most mistakes in English cannot be committed in speech
        they can only be made in writing."_
     2. _**Correct:**_ _"Most mistakes in English cannot be committed in speech;
        they can only be made in writing."_
-19. **Poorly integrated quotation**:
+19. <u>**Poorly integrated quotation**:</u>
     1. _**Incorrect:**_ _"Writing comes more easily if you have something to
        say" (Asch)._
     2. _**Correct:**_ _Sholem Asch might also support the practice of
        prewriting. According to Asch, "Writing comes more easily if you have
        something to say."_
-20. **Unnecessary or missing hyphen**:
+20. <u>**Unnecessary or missing hyphen**:</u>
     1. _**Incorrect:**_ _"This is a newly-discovered place."_
     2. _**Correct:**_ _"This is a newly discovered place."_
 

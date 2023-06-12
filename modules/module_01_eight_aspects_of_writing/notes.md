@@ -1,7 +1,7 @@
-# Module 01
+# Module 01 - 8 Aspects of Writing
 
 <!-- TOC -->
-* [Module 01](#module-01)
+* [Module 01 - 8 Aspects of Writing](#module-01---8-aspects-of-writing)
 * [General Notes](#general-notes)
 * [The 8 Aspects of Writing](#the-8-aspects-of-writing)
   * [Aesthetic](#aesthetic)
@@ -17,7 +17,8 @@
 
 # General Notes
 
-The 8 aspects of writing are a composite system to help us understand what writing is and how its different pieces fit
+The 8 aspects of writing are a composite system to help us understand what
+writing is and how its different pieces fit
 together, giving us a mental model.
 
 # The 8 Aspects of Writing
@@ -33,18 +34,22 @@ together, giving us a mental model.
 
 ## Aesthetic
 
-- The root meaning connects to the study of beauty or how people find things fun, interesting, or beautiful.
+- The root meaning connects to the study of beauty or how people find things
+  fun, interesting, or beautiful.
 
 ## Linguistic
 
 - Deals with language. The study of language and how we communicate.
-- People often think of grammar when they think of the linguistic aspect of writing, but grammar is much larger than
+- People often think of grammar when they think of the linguistic aspect of
+  writing, but grammar is much larger than
   just this.
-- Grammar is not a set of rules to follow, but a set of practices we utilize that can change by context.
+- Grammar is not a set of rules to follow, but a set of practices we utilize
+  that can change by context.
 
 ## Rhetorical
 
-- How a writer accomplished a purpose, whatever that purpose is. Whether that's to entertain, express, or persuade _(or
+- How a writer accomplished a purpose, whatever that purpose is. Whether that's
+  to entertain, express, or persuade _(or
   any other complex purpose)_.
 - Writer's purpose
 
@@ -58,19 +63,23 @@ together, giving us a mental model.
     - MLA
     - Chicago
     - Etc.
-- These are not rules as we need to know the context of the culture that we are writing for so that when we use
+- These are not rules as we need to know the context of the culture that we are
+  writing for so that when we use
   something, it is intentional and not just because we do not know the context.
-- **Ideological State Apparatuses** _(by Alfu Sirs)_ also known as **ISAs** is a neo-marxist concept that is a way of
+- **Ideological State Apparatuses** _(by Alfu Sirs)_ also known as **ISAs** is a
+  neo-marxist concept that is a way of
   analyzing society and its pieces.
 
 ## Structural
 
 - How we organize, sequence, and arrange things.
-- Deals with how we organize or sequence words based on a particular mindset or rhetorical purpose.
+- Deals with how we organize or sequence words based on a particular mindset or
+  rhetorical purpose.
 - What guides how we structure things.
     - At a paragraph, a chunk, or a full document.
 - Even genres have specific structures that audiences will expect.
-- Sometimes we opt for Aristotle's "beginning, middle, and end.", but other times we will opt for a different structure:
+- Sometimes we opt for Aristotle's "beginning, middle, and end.", but other
+  times we will opt for a different structure:
     - Transitional phrases
     - Signaling words
     - Signposting
@@ -90,11 +99,13 @@ together, giving us a mental model.
     - SWOT analysis
     - Stakeholder analysis
     - Etc.
-- Analysis is breaking something down and synthesis is putting something together.
+- Analysis is breaking something down and synthesis is putting something
+  together.
 
 ## Scientific
 
-- Scientific and technological are often derived from each other, going back and forth.
+- Scientific and technological are often derived from each other, going back and
+  forth.
 - The scientific aspect of writing is not the Big S scientific.
 - Based on the root word of science, **knowledge**.
 - The scientific aspect of writing is how we as writers deal with knowledge:
@@ -104,12 +115,14 @@ together, giving us a mental model.
     - How do we create it?
     - Etc.
 - Often has to do with research and how we go about doing research.
-- There's a point where the scientific and socio-cultural aspects of writing overlap so that there are both moral
+- There's a point where the scientific and socio-cultural aspects of writing
+  overlap so that there are both moral
   relativism and dissociated big T truth.
 
 ## Technological
 
-- Scientific and technological are often derived from each other, going back and forth.
+- Scientific and technological are often derived from each other, going back and
+  forth.
 - Deals with two main branches of how we want to think about with writing:
     1. How we produce a text
         - Can be physical, digital, cognitive, etc.
@@ -128,7 +141,8 @@ together, giving us a mental model.
         - Technological readability
             - How fast can we read and retain information, etc.
             - How do we design a text so that a reader can take it in fast?
-        - There are all kinds of visual design techniques to help cognitive upload, such as accessibility.
+        - There are all kinds of visual design techniques to help cognitive
+          upload, such as accessibility.
 
 # Introduction - Writing and The Alphabet
 

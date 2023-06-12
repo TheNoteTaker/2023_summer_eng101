@@ -1,7 +1,7 @@
-# Module 2
+# Module 2 - Linguistics, Grammar, Phonetics, Phonology, Morphology
 
 <!-- TOC -->
-* [Module 2](#module-2)
+* [Module 2 - Linguistics, Grammar, Phonetics, Phonology, Morphology](#module-2---linguistics-grammar-phonetics-phonology-morphology)
 * [General Notes](#general-notes)
 * [What is Linguistics?](#what-is-linguistics)
   * [Grammar](#grammar)
