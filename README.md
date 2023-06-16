@@ -12,7 +12,7 @@
 - **Module 07:** [7-Point Thesis](modules/module_07_7-point-thesis/notes.md)
 - **Module 08:** [Rhetoric](modules/module_08_rhetoric/notes.md)
 - **Module 09:** [Writing Organization](modules/module_09_writing_organization/notes.md)
-- **Module 10:** [](modules/)
+- **Module 10:** [Module 10](modules/module_10/notes.md)
 - **Module 11:** [](modules/)
 - **Module 12:** [](modules/)
 - **Module 13:** [](modules/)

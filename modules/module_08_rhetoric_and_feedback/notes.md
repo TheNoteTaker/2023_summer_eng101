@@ -1,7 +1,7 @@
-# Module 8 - Rhetoric
+# Module 8 - Rhetoric and Feedback
 
 <!-- TOC -->
-* [Module 8 - Rhetoric](#module-8---rhetoric)
+* [Module 8 - Rhetoric and Feedback](#module-8---rhetoric-and-feedback)
 * [General Notes](#general-notes)
 * [Structuring Arguments - Rhetorical Forms](#structuring-arguments---rhetorical-forms)
 * [Classical Greek Oratorical Form](#classical-greek-oratorical-form)
@@ -9,6 +9,7 @@
   * [Key Rhetorical Moves](#key-rhetorical-moves)
 * [Giving Feedback: RICE Model](#giving-feedback-rice-model)
   * [The Professor's Grading System](#the-professors-grading-system)
+  * [Reading Resource](#reading-resource)
 <!-- TOC -->
 
 # General Notes
@@ -111,3 +112,8 @@ reconciliation between parties
 - The instructor may adjust the scores if he feels that something was missed.
 - The final part of this is for you to defend your work if needed while the
   teacher abritrates between you and the other students.
+
+## Reading Resource
+
+**PDF Resource:**
+[Lundstrom and Baker (2009): To Give is Better Than to Receive: The Benefits of Peer Review to the Reviewer's Own Writing](assets/41-lundstrom_and_baker(2009)_to_give_is_better_than_to_receive_the_benefits_of_peer_review_to_the_reviewers_own_writing.pdf)
