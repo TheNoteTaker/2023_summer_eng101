@@ -63,6 +63,8 @@ It can be argued that the ability to find information is more important than the
 
 # Ethnography
 
+> **PDF Resource:** [Robinson Caskie (2006) Ethnography](assets/6-robinson-caskie_(2006)_ethnography_(2-page_introduction).pdf) 
+
 - Ethnography is the study of culture and writing about culture.
 - They include "thick descriptions" that are adding soft analysis and interpretation to allow someone to understand at a later time the what and how the context changed the meaning of the artifact.
   - _They said this and winked_ to allow for deeper analysis and interpretation.
@@ -94,7 +96,7 @@ It can be argued that the ability to find information is more important than the
 
 ## Key Socio-Cultural Components
 
-_The first three are specifically related to writing._
+_The first three are specificad dlly related to writing._
 
 > - **Conventions**
 > - **Norms**
