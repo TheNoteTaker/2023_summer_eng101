@@ -96,9 +96,15 @@ It can be argued that the ability to find information is more important than the
 
 _The first three are specifically related to writing._
 
-- **Conventions**
-- **Norms**
-- **Beliefs** 
+> - **Conventions**
+> - **Norms**
+> - **Beliefs** 
+> 
+> _Notes:_
+> 
+> - Shared beliefs within a culture eventually become norms.
+> - Beliefs start individual, then become shared beliefs &rarr; expected or social norms that start changing behavior &rarr; Conventions when they get documented or codified by some governmental agency.
+> - For some, your ability to follow conventions _(such as MLA or APA)_ is a subconscious identifiers of whether they are more of a member of said thing.
 - **Power Dynamics** 
   - Remember Stakeholder Mapping? (helps us understand **audience**)
   - Ideological Apparatuses (Althusser) (helps us understand the influences of writer/reader)
