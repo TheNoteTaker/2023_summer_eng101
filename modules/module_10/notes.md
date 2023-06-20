@@ -89,12 +89,21 @@
 
 
 
+# Math as a Writing System
+
+**Video Source:** <https://www.youtube.com/watch?v=ROD9jZE4c2M>
 
 - Math is multiple languages
 - Math is **not** a universal language.
   - Different cultures have different ways of doing math, such as dealing with counting and abstract concepts.
 - Numbers are abstract until they are tied to something concrete like a unit of measurement.
 - There are many ways to write even the number 144.
+  - one hundred forty-four
+  - ciento cuarenta y cuatro
+  - 12x12
+  - 100+40+4
+  - 12<sup>2</sup>
+
 - Mathematics uses linguistic components:
   - Morphemes and morphology
     - x, y, 5, 9, A, B, +, =, *, %

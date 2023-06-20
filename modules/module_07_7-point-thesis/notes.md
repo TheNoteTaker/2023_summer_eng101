@@ -121,6 +121,7 @@ The thought process and larger impact
     - _Analytical_
 - The thesis statement actually hits on 5 of the 8 aspects of writing and is why
   it is so important.
+  - Acting as an inflection point for the essay.
 - Essays should be standalone text that when taken out of the classroom would be
   able to read as professional if published somewhere.
     - Don't just think about them as responses to prompts.
