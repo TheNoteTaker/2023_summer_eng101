@@ -17,16 +17,16 @@
    - Fonts
    - Letter/Word/Document Spaces
    - Punctuation
-2. Manual Technologies _(Symple Systems, Hand Tools)_
+2. Manual Technologies _(Simple Systems, Hand Tools)_
 3. Mechanical Technologies _(Levers, Gears, Pulleys, Wheels, etc.)_
    - Require a certain amount of processing to get them to work.
-   1. Electrical
-      - Powered, but more Hardware-oriented
-   2. Electronic
-      - Software-oriented
-   3. Archival Technologies
-      - Storage
-      - Retrieval
-      - Preservation
-      - [American Archivist Reviews](https://www2.archivists.org/american-archivist-reviews/tech-and-resources)
-      - [The Technology of Writing: From Stone Tablets to Tablet Devices](https://youtu.be/OtElbFVhHBo)
+4. Electrical
+   - Powered, but more Hardware-oriented
+5. Electronic
+   - Software-oriented
+6. Archival Technologies
+   - Storage
+   - Retrieval
+   - Preservation
+   - [American Archivist Reviews](https://www2.archivists.org/american-archivist-reviews/tech-and-resources)
+   - [The Technology of Writing: From Stone Tablets to Tablet Devices](https://youtu.be/OtElbFVhHBo)
