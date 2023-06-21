@@ -11,8 +11,12 @@
   - Professional writing
   - Technical communication
   - Technical writing
+- **PDF Resource:** [Practice With Images](assets/practice_with_images.pdf)
+- **Video Resource:** [The Technology of Writing: From Stone Tablets to Tablet Devices](https://www.youtube.com/watch?v=OtElbFVhHBo)
 
 # Key Components
+
+[# Lecture on Readability and Accessibility: Technological Aspect of Writing](https://www.youtube.com/watch?v=1WVusVCBO24)
 
 ## Process / Production
 
@@ -36,8 +40,17 @@
 - **Readability vs Literacy**
   - Traditional linguistic **Literacy:** how the brain decodes **words**.
   - Technological **Readability:** how goes beyond language this has to do with cognitive uptake.
+    - How fast our brains can take in the information
   - The reader's brain's ability to upload information as a result of non-linguistic cues.
   - Document Design & Visual Design
+
+### Poor Readability Example
+
+![](assets/readability.png)
+
+### Good Readability Example
+
+![](assets/readability_002.png)
 
 ## Usability
 
